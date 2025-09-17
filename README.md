@@ -1,8 +1,7 @@
 # 🎮 Hi, I'm Ilyas 👋
 **Game Developer**
 
-> Passionate about creating games, gameplay systems, and AI.  
-> Ready to craft immersive experiences.
+> Passionate about creating games.
 
 ---
 
