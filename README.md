@@ -34,5 +34,3 @@
 ## 🎯 About Me
 > "Games are not just code, they are experiences.  
 > Let's make them unforgettable!"  
-
-💡 Fun Fact: I like to experiment with AI-driven game mechanics.
